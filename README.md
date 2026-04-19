@@ -32,7 +32,7 @@ This repository contains all **3 Frontend Development tasks** completed as part 
 | 🏢 Organization | CodeAlpha |
 | 💼 Role | Frontend Development Intern |
 | 🛠️ Tech Stack | HTML · CSS · JavaScript |
-| 📅 Year | 2025 |
+| 📅 Year | 2026 |
 
 ---
 
@@ -208,7 +208,7 @@ If you found this helpful or inspiring, please consider giving this repo a **⭐
 
 <div align="center">
 
-Made with ❤️ by **Yash Soni** during the **CodeAlpha Frontend Development Internship**
+Made with by **Yash Soni** during the **CodeAlpha Frontend Development Internship**
 
 [![CodeAlpha](https://img.shields.io/badge/Powered%20by-CodeAlpha-6C63FF?style=for-the-badge)](https://codealpha.tech)
 
