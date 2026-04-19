@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=CodeAlpha+Frontend+Internship;Yash+Soni+%7C+Task+Submissions" alt="Typing SVG" />
+# 🚀 CodeAlpha Frontend Internship
 
 <br/>
 
