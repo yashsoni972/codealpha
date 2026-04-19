@@ -11,7 +11,7 @@
 <br/><br/>
 
 > 🚀 Official task submission repository for the **CodeAlpha Frontend Development Internship**
-> Built with passion, precision, and clean code by 
+> Built with passion, precision, and clean code by **Yash Mayurkumar Soni**
 
 <br/>
 
